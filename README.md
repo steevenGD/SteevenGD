@@ -8,7 +8,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Nombre: [Steeven Gómez]
 * Ocupación: [Estudiante]
 * Lugar de residencia: [Santa Elena]
-* Sitio web: [[Mi sitio web](https://steevengd.github.io/SteevenGD/)]
+* Sitio web: [[SteevenGD](https://steevengd.github.io/SteevenGD/)]
 ## Proyectos
 * [Encryptix] 
   [Programa de línea de comandos para encriptar y desencriptar archivos utilizando los algoritmos AES o BLOWFISH.]
