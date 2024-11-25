@@ -37,6 +37,8 @@
 - **Descripción**: Juego interactivo en línea que permite aprender circuitos lógicos digitales mediante la simulación de entradas y salidas.
 - **Tecnologías**: Assembly
 - **Repositorio**: [Batalla Naval](https://github.com/steevenGD/Batalla-Naval.git)
+  ![image](https://github.com/user-attachments/assets/050b5bb0-1080-40c4-b42d-8e50f8018252)
+
 
 ### 3. Tic tac toe
 - **Descripción**: Juego contra pc del clásico tic tac toe.
@@ -63,28 +65,6 @@
 
 
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SteevenGD&show_icons=true&theme=radical"/>
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Steeven's streak" src="https://streak-stats.demolab.com/?user=SteevenGD&theme=radical&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteevenGD&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/SteevenGD">
@@ -97,7 +77,7 @@
 
 <!--- trophy (start) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+  <a href="https://github.com/SteevenGD/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=SteevenGD&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
