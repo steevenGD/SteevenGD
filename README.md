@@ -7,7 +7,7 @@
 
 <!--profile visit count-->
 <div align="left">
-	[![](https://visitcount.itsvg.in/api?id=SteevenGD&icon=3&color=6)](https://visitcount.itsvg.in)
+	[![] (https://visitcount.itsvg.in/api?id=SteevenGD&icon=3&color=6)](https://visitcount.itsvg.in)
 </div>
 
 ¡Bienvenido a mi portafolio en línea! Este sitio es una vitrina de mis habilidades y conocimientos en desarrollo de software. Aquí encontrarás información sobre mí, los proyectos que he desarrollado y las tecnologías que he aprendido.
@@ -30,18 +30,20 @@
 ## Proyectos
 ### 1. Encryptix
 - **Descripción**: Programa de línea de comandos para encriptar y desencriptar archivos utilizando los algoritmos AES o BLOWFISH.
-- **Tecnologías**: Python, librería `cryptography`.
+- **Tecnologías**: C, librería `cryptography`.
 - **Repositorio**: [Encryptix](https://github.com/SteevenGD/Encryptix)
 
-### 2. Circuit Logic Game
+### 2. Batalla Naval
 - **Descripción**: Juego interactivo en línea que permite aprender circuitos lógicos digitales mediante la simulación de entradas y salidas.
-- **Tecnologías**: HTML, CSS, JavaScript.
-- **Repositorio**: [Circuit Logic Game](https://github.com/SteevenGD/CircuitLogicGame)
+- **Tecnologías**: Assembly
+- **Repositorio**: [Batalla Naval](https://github.com/steevenGD/Batalla-Naval.git)
 
-### 3. BananoCraft
-- **Descripción**: Prototipo para el aprovechamiento de desechos de banano en la creación de cerveza artesanal.
-- **Tecnologías**: Python, Pandas, Jupyter Notebook.
-- **Repositorio**: [BananoCraft](https://github.com/SteevenGD/BananoCraft)
+### 3. Tic tac toe
+- **Descripción**: Juego contra pc del clásico tic tac toe.
+- **Tecnologías**: Java, Css
+- **Repositorio**: [BananoCraft](https://github.com/steevenGD/Tic-Tac-Toe.git)
+  ![image](https://github.com/user-attachments/assets/f666b72f-10ab-45e9-bf28-9b605d24869e)
+
 
 ## Tecnologías
 <p align="center">
