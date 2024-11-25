@@ -7,7 +7,9 @@
 
 <!--profile visit count-->
 <div align="left">
-	[![] (https://visitcount.itsvg.in/api?id=SteevenGD&icon=3&color=6)](https://visitcount.itsvg.in)
+	<a href="https://visitcount.itsvg.in">
+		<img src="https://visitcount.itsvg.in/api?id=SteevenGD&icon=3&color=6" alt="Visit Count"/>
+	</a>
 </div>
 
 ¡Bienvenido a mi portafolio en línea! Este sitio es una vitrina de mis habilidades y conocimientos en desarrollo de software. Aquí encontrarás información sobre mí, los proyectos que he desarrollado y las tecnologías que he aprendido.
@@ -33,18 +35,18 @@
 - **Tecnologías**: C, librería `cryptography`.
 - **Repositorio**: [Encryptix](https://github.com/SteevenGD/Encryptix)
 
-### 2. Batalla Naval
-- **Descripción**: Juego interactivo en línea que permite aprender circuitos lógicos digitales mediante la simulación de entradas y salidas.
-- **Tecnologías**: Assembly
-- **Repositorio**: [Batalla Naval](https://github.com/steevenGD/Batalla-Naval.git)
-  ![image](https://github.com/user-attachments/assets/050b5bb0-1080-40c4-b42d-8e50f8018252)
 
+
+### 2. Batalla Naval
+
+| Juego interactivo en línea que permite aprender circuitos lógicos digitales mediante la simulación de entradas y salidas.<br>**Tecnologías:** Assembly<br>**Repositorio:** [Batalla Naval](https://github.com/steevenGD/Batalla-Naval.git)                                                                                                       | ![Batalla Naval](https://github.com/user-attachments/assets/ecfd9e01-80af-4cdc-ba3f-a8aff5a00440) |
+|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 
 ### 3. Tic tac toe
-- **Descripción**: Juego contra pc del clásico tic tac toe.
-- **Tecnologías**: Java, Css
-- **Repositorio**: [BananoCraft](https://github.com/steevenGD/Tic-Tac-Toe.git)
-  ![image](https://github.com/user-attachments/assets/f666b72f-10ab-45e9-bf28-9b605d24869e)
+
+| **Descripción:** Juego con modos de juego PvP y PvPc del clásico tic tac toe.<br>**Tecnologías:** Java, CSS<br>**Repositorio:** [Tic Tac Toe](https://github.com/steevenGD/Tic-Tac-Toe.git)                                                                                                    | <img src="https://github.com/user-attachments/assets/f666b72f-10ab-45e9-bf28-9b605d24869e" alt="Tic Tac Toe" width="300"/> |
+|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+
 
 
 ## Tecnologías
@@ -54,17 +56,6 @@
   </a>
 </p>
 
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">GITHUB STATS</h2></summary>
-  </ul>
-</div>
-
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/SteevenGD">
@@ -72,9 +63,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SteevenGD&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<!--- stats (end) -->
-
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/SteevenGD/github-profile-trophy" title="Go to Source">
@@ -83,14 +71,9 @@
 </div>
 <!--- trophy (end) -->
 </p>        
-<!--- stats (end) -->
-
-
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <!-- Connect with me -->
 <div id="user-content-toc">
@@ -101,7 +84,13 @@
 
 <!--icons and links-->
 <p align="center">
-	<a href="mailto:sjgomez@espol.edu.ec" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Mail_Logo.png" alt="email" height="50" width="50" /></a>
-	<a href="https://www.linkedin.com/in/steevengd/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>	
-	<a href="https://twitter.com/Steeven_GD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+	<a href="mailto:sjgomez@espol.edu.ec" target="_blank">
+		<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="50" width="50" />
+	</a>
+	<a href="https://www.linkedin.com/in/steevengd/" target="_blank">
+		<img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+	</a>	
+	<a href="https://twitter.com/Steeven_GD" target="_blank">
+		<img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
+	</a>
 </p>
